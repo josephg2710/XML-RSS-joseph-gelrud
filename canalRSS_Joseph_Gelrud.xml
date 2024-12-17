@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+ <title>Noticias de Videojuegos</title>
+ <link>http://www.noticiasdevideojuegos.com</link>
+ <description>Últimas noticias sobre videojuegos, incluyendo Fortnite y Call of Duty.</description>
+ <language>es</language>
+ <pubDate>Tue, 17 Dec 2024 10:00:00 +0000</pubDate>  
+ <atom:link href="http://www.noticiasdevideojuegos.com/rss.xml" rel="self" type="application/rss+xml" />  
+ <item>
+   <title>Fortnite lanza su nueva temporada con increíbles novedades</title>
+   <link>http://www.noticiasdevideojuegos.com/fortnite-nueva-temporada</link>
+   <description>La nueva temporada de Fortnite trae nuevos personajes, mapas y eventos especiales que emocionan a la comunidad.</description>
+   <pubDate>Tue, 17 Dec 2024 09:00:00 +0000</pubDate>
+   <guid>http://www.noticiasdevideojuegos.com/fortnite-nueva-temporada</guid>
+ </item>
+ <item>
+   <title>Call of Duty: Black Ops 6 revela su primer tráiler</title>
+   <link>http://www.noticiasdevideojuegos.com/call-of-duty-black-ops-6-trailer</link>
+   <description>Activision ha lanzado el primer tráiler de Call of Duty: Black Ops 6, mostrando nuevas mecánicas de juego y un emocionante modo campaña.</description>
+   <pubDate>Tue, 17 Dec 2024 08:00:00 +0000</pubDate>
+   <guid>http://www.noticiasdevideojuegos.com/call-of-duty-black-ops-6-trailer</guid>
+ </item>
+ <item>
+   <title>Fortnite y su colaboración con Marvel</title>
+   <link>http://www.noticiasdevideojuegos.com/fortnite-marvel-colaboracion</link>
+   <description>Fortnite anuncia una nueva colaboración con Marvel, trayendo personajes icónicos al juego y eventos especiales.</description>
+   <pubDate>Tue, 17 Dec 2024 07:00:00 +0000</pubDate>
+   <guid>http://www.noticiasdevideojuegos.com/fortnite-marvel-colaboracion</guid>
+ </item>  
+</channel>
+</rss>
